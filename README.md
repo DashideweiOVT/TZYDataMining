@@ -7,18 +7,18 @@
 1. 打开浏览器，搜索GitHub，访问 https://github.com 进入GitHub官网。
 2. 找到 **Sign Up for GitHub** 按钮并点击，开始注册GitHub账号。<br />
 ![contents](image/signup.png)<br />
-3. 填写邮箱地址，设置密码，设置用户名,每次填写完都点 **Continue** 。<br />
+3. 填写邮箱地址，设置密码，设置用户名,每次填写完都点 **Continue** 。<br /><br />
 ![image](image/enroll.png)<br />
-4. 进行真人验证，首先点击验证<br />
+4. 进行真人验证，首先点击验证<br /><br />
 ![image](image/verify.png)<br />
-&emsp;&emsp;根据左边的要求，在右边选择满足要求的图片，三次正确后验证完成。<br />
-![image](image/people.png)<br />
-5. 网站会发送邮箱验证，查收验证邮件并输入验证码以完成注册。<br />
-![image](image/yanzheng.png)<br />
-&emsp;&emsp;将邮箱的验证码正确填入就完成了<br />
-6. 下面是github的欢迎页面，按要求填写团队人数和身份<br />
+&emsp;&emsp;根据左边的要求，在右边选择满足要求的图片，三次正确后验证完成。<br /><br />
+![image](image/people.png)<br /><br />
+5. 网站会发送邮箱验证，查收验证邮件并输入验证码以完成注册。<br /><br />
+![image](image/yanzheng.png)<br /><br />
+&emsp;&emsp;将邮箱的验证码正确填入就完成了<br /><br />
+6. 下面是github的欢迎页面，按要求填写团队人数和身份<br /><br />
 ![image](image/choose.png)<br />
-&emsp;&emsp;填写完成后来到工具选项页面,你可以选择感兴趣的工具。<br />
+&emsp;&emsp;填写完成后来到工具选项页面,你可以选择感兴趣的工具。<br /><br />
 ![image](image/tools.png)<br />
 &emsp;&emsp;到这一步，注册账号就完成了。<br />
 # 建立一个库 `xxDataMining`
@@ -32,9 +32,9 @@
 &emsp;&emsp;点击 **Add file** ,再点击 **Upload file** 进入上传文件页面。<br />
 ![image](image/upload.png)<br />
 &emsp;&emsp;可以直接拖拽上传，也可以点击 **choose your file** 选择文件(PPT不能超过25M)<br />
-![image](image/choosefile.png)<br />
-&emsp;&emsp;上传文件后，点击 **Commit changes** 完成PPT的上传。<br />
-![image](image/wancheng.png)<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+![image](image/choosefile.png)<br /><br />
+&emsp;&emsp;上传文件后，点击 **Commit changes** 完成PPT的上传。<br /><br />
+![image](image/wancheng.png)<br />
 # 学习目标：开发一个基于PyTorch的视频处理模型
 
 ## 背景
