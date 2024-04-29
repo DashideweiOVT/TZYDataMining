@@ -27,22 +27,14 @@
 &emsp;&emsp;点击后来到仓库建立页面,填写仓库信息，输入仓库名为TZYDataMining,设置仓库公开，并勾选 **Add a README file** 添加README文件,最后两个选项这里都选择None，就完成了仓库的建立。<br />
 ![image](image/cangku.png)<br />
 &emsp;&emsp;下面是创建完成后的页面<br />
-![image](image/diyicijianwan.png)<br />
+![image](image/diyicijianwan.png)<br /><br /><br /><br />
 2. PPT上传<br />
 &emsp;&emsp;点击 **Add file** ,再点击 **Upload file** 进入上传文件页面。<br />
 ![image](image/upload.png)<br />
 &emsp;&emsp;可以直接拖拽上传，也可以点击 **choose your file** 选择文件(PPT不能超过25M)<br />
 ![image](image/choosefile.png)<br /><br />
 &emsp;&emsp;上传文件后，点击 **Commit changes** 完成PPT的上传。<br /><br />
-![image](image/wancheng.png)<br />
-
-
-
-
-
-
-
-
+![image](image/wancheng.png)<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 # 学习目标：开发一个基于PyTorch的视频处理模型
 
