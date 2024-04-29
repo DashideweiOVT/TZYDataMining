@@ -34,7 +34,7 @@
 &emsp;&emsp;可以直接拖拽上传，也可以点击 **choose your file** 选择文件(PPT不能超过25M)<br />
 ![image](image/choosefile.png)<br />
 &emsp;&emsp;上传文件后，点击 **Commit changes** 完成PPT的上传。<br />
-![image](image/wancheng.png)<br /><br /><br /><br /><br /><br /><br />
+![image](image/wancheng.png)<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 # 学习目标：开发一个基于PyTorch的视频处理模型
 
 ## 背景
