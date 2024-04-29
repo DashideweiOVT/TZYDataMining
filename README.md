@@ -15,7 +15,6 @@
 ![image](image/people.png)<br /><br />
 5. 网站会发送邮箱验证，查收验证邮件并输入验证码以完成注册。<br /><br />
 ![image](image/yanzheng.png)<br /><br />
-![image](image/yanzhengma.jpg)<br /><br />
 &emsp;&emsp;将邮箱的验证码正确填入就完成了<br /><br />
 6. 下面是github的欢迎页面，按要求填写团队人数和身份<br /><br />
 ![image](image/choose.png)<br /><br />
