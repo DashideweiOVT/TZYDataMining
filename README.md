@@ -5,35 +5,35 @@
 - **学号**：92342209
 # 注册GitHub账户
 1. 打开浏览器，搜索GitHub，访问 https://github.com 进入GitHub官网。
-2. 找到 **Sign Up for GitHub** 按钮并点击，开始注册GitHub账号。<br /><br />
-![contents](image/signup.png)<br /><br />
-3. 填写邮箱地址，设置密码，设置用户名,每次填写完都点 **Continue** 。<br /><br />
-![image](image/enroll.png)<br /><br />
-4. 进行真人验证，首先点击验证<br /><br />
-![image](image/verify.png)<br /><br />
-&emsp;&emsp;根据左边的要求，在右边选择满足要求的图片，三次正确后验证完成。<br /><br />
-![image](image/people.png)<br /><br />
-5. 网站会发送邮箱验证，查收验证邮件并输入验证码以完成注册。<br /><br />
-![image](image/yanzheng.png)<br /><br />
-&emsp;&emsp;将邮箱的验证码正确填入就完成了<br /><br />
-6. 下面是github的欢迎页面，按要求填写团队人数和身份<br /><br />
-![image](image/choose.png)<br /><br />
-&emsp;&emsp;填写完成后来到工具选项页面,你可以选择感兴趣的工具。<br /><br />
-![image](image/tools.png)<br /><br />
-&emsp;&emsp;到这一步，注册账号就完成了。<br /><br />
+2. 找到 **Sign Up for GitHub** 按钮并点击，开始注册GitHub账号。<br />
+![contents](image/signup.png)<br />
+3. 填写邮箱地址，设置密码，设置用户名,每次填写完都点 **Continue** 。<br />
+![image](image/enroll.png)<br />
+4. 进行真人验证，首先点击验证<br />
+![image](image/verify.png)<br />
+&emsp;&emsp;根据左边的要求，在右边选择满足要求的图片，三次正确后验证完成。<br />
+![image](image/people.png)<br />
+5. 网站会发送邮箱验证，查收验证邮件并输入验证码以完成注册。<br />
+![image](image/yanzheng.png)<br />
+&emsp;&emsp;将邮箱的验证码正确填入就完成了<br />
+6. 下面是github的欢迎页面，按要求填写团队人数和身份<br />
+![image](image/choose.png)<br />
+&emsp;&emsp;填写完成后来到工具选项页面,你可以选择感兴趣的工具。<br />
+![image](image/tools.png)<br />
+&emsp;&emsp;到这一步，注册账号就完成了。<br />
 # 建立一个库 `xxDataMining`
-1. 注册完成会来到账户的主页，点击左侧的 **Create repository** 建立个人仓库。<br /><br />
-![image](image/chuangjian.png)<br /><br />
-&emsp;&emsp;点击后来到仓库建立页面,填写仓库信息，输入仓库名为TZYDataMining,设置仓库公开，并勾选 **Add a README file** 添加README文件,最后两个选项这里都选择None，就完成了仓库的建立。<br /><br />
-![image](image/cangku.png)<br /><br />
-&emsp;&emsp;下面是创建完成后的页面<br /><br />
-![image](image/diyicijianwan.png)<br /><br />
-2. PPT上传<br /><br />
-&emsp;&emsp;点击 **Add file** ,再点击 **Upload file** 进入上传文件页面。<br /><br />
-![image](image/upload.png)<br /><br />
-&emsp;&emsp;可以直接拖拽上传，也可以点击 **choose your file** 选择文件(PPT不能超过25M)<br /><br />
-![image](image/choosefile.png)<br /><br />
-&emsp;&emsp;上传文件后，点击 **Commit changes** 完成PPT的上传。<br /><br />
+1. 注册完成会来到账户的主页，点击左侧的 **Create repository** 建立个人仓库。<br />
+![image](image/chuangjian.png)<br />
+&emsp;&emsp;点击后来到仓库建立页面,填写仓库信息，输入仓库名为TZYDataMining,设置仓库公开，并勾选 **Add a README file** 添加README文件,最后两个选项这里都选择None，就完成了仓库的建立。<br />
+![image](image/cangku.png)<br />
+&emsp;&emsp;下面是创建完成后的页面<br />
+![image](image/diyicijianwan.png)<br />
+2. PPT上传<br />
+&emsp;&emsp;点击 **Add file** ,再点击 **Upload file** 进入上传文件页面。<br />
+![image](image/upload.png)<br />
+&emsp;&emsp;可以直接拖拽上传，也可以点击 **choose your file** 选择文件(PPT不能超过25M)<br />
+![image](image/choosefile.png)<br />
+&emsp;&emsp;上传文件后，点击 **Commit changes** 完成PPT的上传。<br />
 ![image](image/wancheng.png)<br /><br />
 # 学习目标：开发一个基于PyTorch的视频处理模型
 
